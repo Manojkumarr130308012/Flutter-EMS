@@ -1,0 +1,10 @@
+const String login = "login";
+const String homeRoute = "home";
+const String workOrderRoute = "work_order";
+const String workOrderDetailRoute = 'work_order_details';
+const String addRoute = "add";
+const String requestRoute = "request";
+const String moreRoute = "more";
+const String assets = "assets";
+const String location = "location";
+const String tasks = "tasks";

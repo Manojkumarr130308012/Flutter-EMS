@@ -1,0 +1,38 @@
+{
+  "appTitle": "Oriens EAM",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "app_title": "Oriens EAM",
+  "editDashboard": "Edit DashBoard",
+  "wo_dashboard": "Work Order Dashboard",
+  "edit": "Edit",
+  "wo_populate": "Choose which work order populate your dashboard",
+  "all_wo": "All Work Orders",
+  "custom": "Custom",
+  "include_work": "Include Work",
+  "assigned_to_me": "Assigned to me",
+  "assigned_to_my_team": "Assigned to my Team",
+  "unassigned": "UnaAssigned",
+  "scan":"Scan",
+  "notification": " Notifications",
+
+  "work_orders": "Work Orders",
+  "choose": "Choose",
+  "complete": "Complete",
+  "status": "Status",
+  "sort_by": "Sort By",
+  "search_by": "Search by WO Name or Code",
+  "tasks": "Tasks",
+
+  "service_request": "Service Request",
+  "add_request": "Add Request",
+  "image": "Image",
+  "priority": "Priority",
+
+  "more": "More",
+  "assets": "Assets",
+  "location": "Location",
+  "parts": "Parts"
+
+}
